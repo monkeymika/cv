@@ -108,7 +108,7 @@ body
 {
     list-style: none;
     position: relative;
-    margin: 15px 0;
+    margin: 10px 0;
     cursor: pointer;
     color: antiquewhite;
 }
@@ -116,7 +116,7 @@ body
 .contact ul li .icon
 {
     width: 30px;
-    font-size: 20px;
+    font-size: 15px;
     color: rgb(10, 248, 248);
     
   
@@ -131,7 +131,7 @@ body
 
 #align
 {
-    padding-left: 23px;
+    padding-left: 18px;
 }
 
 .hobby ul li
